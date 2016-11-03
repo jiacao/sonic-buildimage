@@ -12,7 +12,7 @@
 	url = https://github.com/Azure/sonic-sairedis
 [submodule "sonic-swss"]
 	path = src/sonic-swss
-	url = https://github.com/Azure/sonic-swss
+	url = https://github.com/jiacao/sonic-swss
 [submodule "src/p4-switch/switch"]
 	path = src/p4-switch/switch
 	url = https://github.com/lguohan/switch
